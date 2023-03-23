@@ -21,7 +21,7 @@ Sora Takashima, Ryo Hayamizu, Nakamasa Inoue, Hirokatsu Kataoka and Rio Yokota,
 "Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
 [[Project](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/)] 
 [[PDF (preprint)](https://arxiv.org/pdf/2303.01112.pdf)] 
-[[Dataset](https://drive.google.com/drive/folders/1L5E6MT8jLq05i6LPJFgP4pByPmMC9a2Y?usp=share_link)] 
+[[Dataset](#visualatom-construction-readme)] 
 <!-- TODO [[Oral](http://hirokatsukataoka.net/pdf/cvpr22_kataoka_oral.pdf)]  -->
 <!-- TODO [[Poster](http://hirokatsukataoka.net/pdf/cvpr22_kataoka_poster.pdf)]  -->
 <!-- TODO [[Supp](http://hirokatsukataoka.net/pdf/cvpr22_kataoka_fdsl_supplementary.pdf)] -->
