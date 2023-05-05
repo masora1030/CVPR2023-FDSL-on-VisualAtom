@@ -8,7 +8,7 @@ fi
 # Multi-thread processing
 for ((i=0 ; i<${NUM_OF_THREAD} ; i++))
 do
-  python render_VisualAtom \
+  python render_VisualAtom.py \
   --save_root=${SAVEDIR} --numof_thread=${NUM_OF_THREAD} --thread_num=${i} \
   --numof_classes=1000 --numof_instances=1000 --start_class=0 \
   --vertex_num_min=200 --vertex_num_max=1000 --perlin_min=0 --line_num_min=1 --line_num_max=200 \
