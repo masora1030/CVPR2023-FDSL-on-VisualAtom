@@ -22,9 +22,9 @@ Sora Takashima, Ryo Hayamizu, Nakamasa Inoue, Hirokatsu Kataoka and Rio Yokota,
 [[Project](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/)] 
 [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Takashima_Visual_Atoms_Pre-Training_Vision_Transformers_With_Sinusoidal_Waves_CVPR_2023_paper.pdf)] 
 [[Dataset](#visualatom-construction-readme)] 
+[[Poster](https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22854.png?t=1685632285.9741583)] 
+[[Supp](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/CVPR2023_VisualAtom_FDSL_Supplementary_Material.pdf)]
 <!-- TODO [[Oral](http://hirokatsukataoka.net/pdf/cvpr22_kataoka_oral.pdf)]  -->
-TODO [[Poster](https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22854.png?t=1685632285.9741583)] 
-TODO [[Supp](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/CVPR2023_VisualAtom_FDSL_Supplementary_Material.pdf)]
 
 ## Updates
 <!-- TODO update -->
