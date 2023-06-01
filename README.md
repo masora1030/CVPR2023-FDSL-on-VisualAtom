@@ -20,11 +20,11 @@ The repository is based on the paper:
 Sora Takashima, Ryo Hayamizu, Nakamasa Inoue, Hirokatsu Kataoka and Rio Yokota,
 "Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
 [[Project](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/)] 
-[[PDF (preprint)](https://arxiv.org/pdf/2303.01112.pdf)] 
+[[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Takashima_Visual_Atoms_Pre-Training_Vision_Transformers_With_Sinusoidal_Waves_CVPR_2023_paper.pdf)] 
 [[Dataset](#visualatom-construction-readme)] 
 <!-- TODO [[Oral](http://hirokatsukataoka.net/pdf/cvpr22_kataoka_oral.pdf)]  -->
-<!-- TODO [[Poster](http://hirokatsukataoka.net/pdf/cvpr22_kataoka_poster.pdf)]  -->
-<!-- TODO [[Supp](http://hirokatsukataoka.net/pdf/cvpr22_kataoka_fdsl_supplementary.pdf)] -->
+TODO [[Poster](https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22854.png?t=1685632285.9741583)] 
+TODO [[Supp](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/CVPR2023_VisualAtom_FDSL_Supplementary_Material.pdf)]
 
 ## Updates
 <!-- TODO update -->
@@ -39,25 +39,26 @@ Sora Takashima, Ryo Hayamizu, Nakamasa Inoue, Hirokatsu Kataoka and Rio Yokota,
 ## Citation
 
 <!-- TODO update pages -->
-If you use this scripts, please cite the following paper (pre-print):
-<!-- ```bibtex
+If you use this scripts, please cite the following paper:
+```bibtex
 @InProceedings{takashima2023visual,
     author    = {Sora Takashima, Ryo Hayamizu, Nakamasa Inoue, Hirokatsu Kataoka and Rio Yokota},
     title     = {Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
     year      = {2023},
-    pages     = {XXXX-YYYY}
+    pages     = {18579-18588}
 }
-```  -->
-```bibtex
+``` 
+
+<!-- ```bibtex
 @article{takashima2023visual,
   title={Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves},
   author={Takashima, Sora and Hayamizu, Ryo and Inoue, Nakamasa and Kataoka, Hirokatsu and Yokota, Rio},
   journal={arXiv preprint arXiv:2303.01112},
   year={2023}
 }
-``` 
+```  -->
 
 ## Requirements
 
@@ -81,6 +82,8 @@ $ pip install -r requirements.txt
 $ cd visual_atomic_renderer
 $ bash make_VisualAtom.sh
 ```
+
+You can also download raw VisualAtom-1k here : [zenodo](https://zenodo.org/record/7945009)
 
 ## Pre-training
 
